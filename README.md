@@ -1,5 +1,6 @@
 # USB Metadata Forensics  
 **Author:** Carla Vieira | 2025  
+
 **Repository Purpose:** A real-world forensic analysis of staged evidence using Autopsy, focused on metadata anomalies and timeline reconstruction.
 
 ---
@@ -25,6 +26,7 @@ By using Autopsy to dig into file metadata and MACtimes, I uncovered inconsisten
 
 ## 🧪 Featured Case  
 **USB Metadata Forensics: Staged Evidence Uncovered**  
+
 Published on cvcyber.dev, this blog post walks through how two files—one text and one spreadsheet—appeared to support a tragic event. But the metadata told a different story.  
 
 Using timeline analysis and author metadata, I demonstrated how falsified files can be used to manipulate investigations. This isn’t just about forensics—it’s about protecting truth in environments where digital evidence shapes outcomes.
@@ -40,6 +42,7 @@ This kind of work is especially relevant for:
 ---
 
 ## 🔖 License  
+
 All work in this repository is © 2025 Carla Vieira.  
 It’s made available for learning, research, and professional development.
 
@@ -51,4 +54,5 @@ It’s made available for learning, research, and professional development.
 
 ## 🌐 About the Author  
 I'm Carla Vieira, a cybersecurity analyst focused on digital forensics and investigative security work. I use technical tools to answer hard questions—and make sure the right story is told when the stakes are high.  
+
 More at [cvcyber.dev](https://cvcyber.dev)
