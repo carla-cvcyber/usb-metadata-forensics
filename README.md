@@ -18,8 +18,7 @@ By using Autopsy to dig into file metadata and MACtimes, I uncovered inconsisten
 |------|-------------|
 | `Forensic_Report_USB.pdf` | Summary of the full investigation and findings |
 | `Autopsy_Timeline_Analysis.md` | Step-by-step breakdown of the technical analysis |
-| `evidence_metadata.csv` | Extracted metadata for all notable files |
-| `screenshots/` | Supporting visuals and Autopsy interface captures |
+| `evidence_metadata.csv` | Extracted metadata for all notable files (included in `Autopsy_Timeline_Analysis.md` |
 | `LICENSE` | Terms of use and attribution
 
 ---
@@ -36,8 +35,9 @@ This kind of work is especially relevant for:
 - HR and legal compliance reviews  
 - Incident response and litigation readiness  
 
-📄 [Read the PDF Report](#)  
+📄 [Read the article "The Metadata That Caught a Lie: Digital Forensics in Action"](https://www.cvcyber.dev/post/metadata-caught-a-lie)
 📝 [View the Timeline Walkthrough](#)
+
 
 ---
 
