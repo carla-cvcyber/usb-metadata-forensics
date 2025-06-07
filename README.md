@@ -36,7 +36,7 @@ This kind of work is especially relevant for:
 - Incident response and litigation readiness  
 
 📄 [Read the article "The Metadata That Caught a Lie: Digital Forensics in Action"](https://www.cvcyber.dev/post/metadata-caught-a-lie)
-📝 [View the Timeline Walkthrough](#)
+📝 [View the Timeline Walkthrough](https://github.com/carla-cvcyber/usb-metadata-forensics/blob/main/Autopsy_Timeline_Analysis.md)
 
 
 ---
